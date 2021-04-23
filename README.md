@@ -4,3 +4,4 @@
 * write_pinnacle_slurm.py is a python script for easily changing the SLURM script to run a job on the AHPCC Pinnacle cluster
 * For assn04, we were to screenshot our pwd, script commands, and script outputs: [Screenshot of script run on Razor](assn04_AHPCC_ScriptRun.png)
 * nucleotide_composition.py is a python script that calculates nucleotide frequencies within a DNA dequence file and writes it to file STDOUT
+* parseGFF_feature.py will parse the GFF file and print out by specific gene and feature request - will also provide rev_comp of the strand
